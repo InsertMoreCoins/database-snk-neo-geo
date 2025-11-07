@@ -1,0 +1,28 @@
+{
+  "nombre": "The Last Blade 2 / Bakumatsu Roman - Dai Ni Maku Gekka no Kenshi",
+  "nombre_original": "The Last Blade 2 / Bakumatsu Roman - Dai Ni Maku Gekka no Kenshi",
+  "sistema": "SNK Neo Geo",
+  "year": 1998,
+  "genres": [
+    "Fighter"
+  ],
+  "publisher": "SNK",
+  "developer": "SNK",
+  "banners_candidatos": [
+    "banner.webp"
+  ],
+  "banner_local": "banner.webp",
+  "screenshots_local": [],
+  "screenshots_urls_descargadas": [
+    "https://www.video-games-museum.com/en/boxart/NeoGeo/4321-Last-Blade-2-Bakumatsu-Roman-Dai-Ni-Maku-Gekka-no-Kenshi-The.jpg",
+    "https://www.video-games-museum.com/en/screenshots/NeoGeo/1/4321-title-Last-Blade-2-Bakumatsu-Roman-Dai-Ni-Maku-Gekka-no-Kenshi-The.jpg"
+  ],
+  "tiene_review": false,
+  "review_score": null,
+  "carpeta_slug": "the-last-blade-2-bakumatsu-roman-dai-ni-maku-gekka-no-kenshi",
+  "nombre_xml": "SNK Neo Geo",
+  "sistema_slug": "snk-neo-geo",
+  "fuentes_imagenes": [
+    "Banners: Google+DuckDuckGo (2)"
+  ]
+}
