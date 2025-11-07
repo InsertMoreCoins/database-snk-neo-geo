@@ -1,0 +1,69 @@
+{
+  "nombre": "Windjammers / Flying Power Disc",
+  "nombre_original": "Windjammers / Flying Power Disc",
+  "sistema": "SNK Neo Geo",
+  "year": 1994,
+  "genres": [
+    "Sports"
+  ],
+  "publisher": "Data East Corporation",
+  "developer": "Data East Corporation",
+  "banners_candidatos": [
+    "banner.webp"
+  ],
+  "banner_local": "banner.webp",
+  "screenshots_local": [
+    "screenshot_1.webp",
+    "screenshot_2.webp",
+    "screenshot_3.webp",
+    "screenshot_4.webp",
+    "screenshot_5.webp",
+    "screenshot_6.webp",
+    "screenshot_7.webp",
+    "screenshot_8.webp",
+    "screenshot_9.webp",
+    "screenshot_10.webp",
+    "screenshot_11.webp",
+    "screenshot_12.webp",
+    "screenshot_13.webp",
+    "screenshot_14.webp",
+    "screenshot_15.webp",
+    "screenshot_16.webp",
+    "screenshot_17.webp",
+    "screenshot_18.webp"
+  ],
+  "screenshots_urls_descargadas": [
+    "https://www.video-games-museum.com/en/screenshots/NeoGeo/4/4399-ingame-Windjammers-Flying-Power-Disc.jpg",
+    "https://www.video-games-museum.com/en/screenshots/NeoGeo/3/4399-ingame-Windjammers-Flying-Power-Disc.jpg",
+    "https://i.ytimg.com/vi/SITlPA2KRak/hq720.jpg",
+    "https://www.arcade-history.com/images/game/3169_2.png",
+    "https://i.ytimg.com/vi/0FowchEqquQ/hqdefault.jpg",
+    "https://www.video-games-museum.com/en/screenshots/NeoGeo/1/4399-title-Windjammers-Flying-Power-Disc.jpg",
+    "https://100daysofmegashock.wordpress.com/wp-content/uploads/2017/03/vlcsnap-2017-03-09-19h00m44s838.png",
+    "https://obscurevideogames.com/wp-content/uploads/2013/05/dscn4630.jpg",
+    "https://db.hfsplay.fr/files/2021/12/20/wjammers_front_eng_lpGsAxu.jpg",
+    "https://i.ytimg.com/vi/FPJzxI2SVuU/maxresdefault.jpg",
+    "https://www.video-games-museum.com/en/boxart/NeoGeo/4399-Windjammers-Flying-Power-Disc.jpg",
+    "https://media.retroachievements.org/Images/086946.png",
+    "https://obscurevideogames.com/wp-content/uploads/2013/05/dscn4628.jpg",
+    "https://i.pinimg.com/736x/ee/24/78/ee24780e96250bc5843f1b4d4ff732c2.jpg",
+    "https://obscurevideogames.com/wp-content/uploads/2013/05/dscn4640.jpg",
+    "https://i.ytimg.com/vi/99JKiyJK3bU/sddefault.jpg",
+    "http://www.hardcoregaming101.net/wp-content/uploads/2017/08/flyingpowerdisc-277x360.jpg",
+    "https://www.culturaneogeo.com/reviews/windjammers/ww.jpg",
+    "https://images.launchbox-app.com/c82dc6b0-d1e9-47fa-b99f-65018f37e0a7.png",
+    "https://www.emporiumretrogamingshop.com/cdn/shop/products/IMG_20221123_102758_2048x.jpg",
+    "https://images.launchbox-app.com/7a651e16-9218-4442-b5fb-bc676ca40f2b.png",
+    "https://images.launchbox-app.com/d13c88e1-a291-45ed-a9ad-a20c7a8e48b2.png",
+    "https://images.launchbox-app.com/c82dc6b0-d1e9-47fa-b99f-65018f37e0a7.png"
+  ],
+  "tiene_review": false,
+  "review_score": null,
+  "carpeta_slug": "windjammers-flying-power-disc",
+  "nombre_xml": "SNK Neo Geo",
+  "sistema_slug": "snk-neo-geo",
+  "fuentes_imagenes": [
+    "Screenshots: Google+DuckDuckGo (20)",
+    "Banners: Google+DuckDuckGo (3)"
+  ]
+}
