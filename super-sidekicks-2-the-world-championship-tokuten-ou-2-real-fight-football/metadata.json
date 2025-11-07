@@ -1,0 +1,29 @@
+{
+  "nombre": "Super Sidekicks 2 - The World Championship / Tokuten Ou 2 - real fight football",
+  "nombre_original": "Super Sidekicks 2 - The World Championship / Tokuten Ou 2 - real fight football",
+  "sistema": "SNK Neo Geo",
+  "year": 1994,
+  "genres": [
+    "Sports/Soccer"
+  ],
+  "publisher": "SNK",
+  "developer": "SNK",
+  "banners_candidatos": [
+    "banner.webp"
+  ],
+  "banner_local": "banner.webp",
+  "screenshots_local": [],
+  "screenshots_urls_descargadas": [
+    "https://static.wikia.nocookie.net/snk/images/b/b5/SuperSidekicks2.jpg",
+    "https://www.video-games-museum.com/en/screenshots/NeoGeo/1/4386-title-Super-Sidekicks-2-The-World-Championship-Tokuten-Ou-2-real-fight-football.jpg",
+    "https://www.video-games-museum.com/en/boxart/NeoGeo/4386-Super-Sidekicks-2-The-World-Championship-Tokuten-Ou-2-real-fight-football.jpg"
+  ],
+  "tiene_review": false,
+  "review_score": null,
+  "carpeta_slug": "super-sidekicks-2-the-world-championship-tokuten-ou-2-real-fight-football",
+  "nombre_xml": "SNK Neo Geo",
+  "sistema_slug": "snk-neo-geo",
+  "fuentes_imagenes": [
+    "Banners: Google+DuckDuckGo (3)"
+  ]
+}
