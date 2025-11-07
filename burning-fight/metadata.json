@@ -1,0 +1,69 @@
+{
+  "nombre": "Burning Fight",
+  "nombre_original": "Burning Fight (set 1)",
+  "sistema": "SNK Neo Geo",
+  "year": 1991,
+  "genres": [
+    "Fighter"
+  ],
+  "publisher": "SNK",
+  "developer": "SNK",
+  "banners_candidatos": [
+    "banner.webp"
+  ],
+  "banner_local": "banner.webp",
+  "screenshots_local": [
+    "screenshot_1.webp",
+    "screenshot_2.webp",
+    "screenshot_3.webp",
+    "screenshot_4.webp",
+    "screenshot_5.webp",
+    "screenshot_6.webp",
+    "screenshot_7.webp",
+    "screenshot_8.webp",
+    "screenshot_9.webp",
+    "screenshot_10.webp",
+    "screenshot_11.webp",
+    "screenshot_12.webp",
+    "screenshot_13.webp",
+    "screenshot_14.webp",
+    "screenshot_15.webp",
+    "screenshot_16.webp",
+    "screenshot_17.webp",
+    "screenshot_18.webp"
+  ],
+  "screenshots_urls_descargadas": [
+    "https://i.ytimg.com/vi/y0C8ggmmGr4/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/CP54gyx433k/maxresdefault.jpg",
+    "https://www.neo-geo.com/reviews/neo-reviews/BurningFigt/bfight5.png",
+    "https://www.neo-geo.com/reviews/neo-reviews/BurningFigt/Final_Fight.png",
+    "https://i.ytimg.com/vi/KZKgb2NN_z4/maxresdefault.jpg",
+    "https://www.neo-geo.com/reviews/neo-reviews/BurningFigt/burningfight2.gif",
+    "https://cdn.mobygames.com/screenshots/1475014-burning-fight-neo-geo-hello-my-name-is-tom-anderson-prepare-to-d.png",
+    "https://c8.alamy.com/comp/2BMP0XT/burning-fight-snk-neo-geo-neogeo-editorial-use-only-2BMP0XT.jpg",
+    "http://www.honestgamers.com/blogsnew/images/15843/663.jpg",
+    "http://www.honestgamers.com/blogsnew/images/15843/664.jpg",
+    "https://bonusstagemagazine.wordpress.com/wp-content/uploads/2020/04/burning-fight-8.jpg",
+    "https://images.nintendolife.com/screenshots/11324/large.jpg",
+    "https://images.nintendolife.com/screenshots/11327/large.jpg",
+    "https://image.api.playstation.com/cdn/EP8908/CUSA09717_00/eqDcS0FrooDFAnvH2ZjrhhYeakYlZT8m.jpg",
+    "https://i.ytimg.com/vi/oY4onfToIQA/maxresdefault.jpg",
+    "https://c8.alamy.com/comp/2BMP0XA/burning-fight-snk-neo-geo-neogeo-editorial-use-only-2BMP0XA.jpg",
+    "https://www.arcadearchives.com/wp/wp-content/uploads/2024/12/ang-g8h5mibr-ss04.png",
+    "https://images.nintendolife.com/screenshots/11323/large.jpg",
+    "https://cdn.mobygames.com/screenshots/1473040-burning-fight-neo-geo-say-hello-to-yujiro-heike.png",
+    "https://ip.trueachievements.com/remote/dlassets-ssl.xboxlive.com/public/content/3dde82fa-f779-4475-9160-2de83a33d442/e7bdaef3-edd4-4cda-b353-a68991acd05b/76c0588a-a11e-4d2a-86a4-af0b7f2eac7b.png",
+    "https://images.launchbox-app.com/59ab7137-d708-490e-b44b-c45e4c901e57.png",
+    "https://images.launchbox-app.com/05ffdbe5-9e2e-42e6-9908-6431a23851cd.jpg",
+    "https://images.launchbox-app.com/4b789f1d-e5d8-4498-ae4a-e1000520b978.png"
+  ],
+  "tiene_review": false,
+  "review_score": null,
+  "carpeta_slug": "burning-fight",
+  "nombre_xml": "SNK Neo Geo",
+  "sistema_slug": "snk-neo-geo",
+  "fuentes_imagenes": [
+    "Screenshots: Google+DuckDuckGo (20)",
+    "Banners: Google+DuckDuckGo (3)"
+  ]
+}
