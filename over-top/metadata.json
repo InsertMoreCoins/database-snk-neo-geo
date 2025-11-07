@@ -1,0 +1,68 @@
+{
+  "nombre": "Over Top",
+  "nombre_original": "Over Top",
+  "sistema": "SNK Neo Geo",
+  "year": 1996,
+  "genres": [
+    "Driving"
+  ],
+  "publisher": "ADK",
+  "developer": "ADK",
+  "banners_candidatos": [
+    "banner.webp"
+  ],
+  "banner_local": "banner.webp",
+  "screenshots_local": [
+    "screenshot_1.webp",
+    "screenshot_2.webp",
+    "screenshot_3.webp",
+    "screenshot_4.webp",
+    "screenshot_5.webp",
+    "screenshot_6.webp",
+    "screenshot_7.webp",
+    "screenshot_8.webp",
+    "screenshot_9.webp",
+    "screenshot_10.webp",
+    "screenshot_11.webp",
+    "screenshot_12.webp",
+    "screenshot_13.webp",
+    "screenshot_14.webp",
+    "screenshot_15.webp",
+    "screenshot_16.webp",
+    "screenshot_17.webp",
+    "screenshot_18.webp"
+  ],
+  "screenshots_urls_descargadas": [
+    "https://i.ytimg.com/vi/iBwKndOD_1g/hq720.jpg",
+    "https://upload.wikimedia.org/wikipedia/en/9/9a/Neo_Geo_AES_Over_Top_cover_art.jpg",
+    "https://www.arcade-history.com/images/game/1904_2.png",
+    "https://i.ytimg.com/vi/Se9fPLEiOtw/hqdefault.jpg",
+    "https://www.trueachievements.com/customimages/087352.jpg",
+    "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_download_software_2/nswitchds_acaneogeoovertop/NSwitchDS_AcaNeogeoOverTop_01.jpg",
+    "https://i.ytimg.com/vi/ZeOmh0YEnYM/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/tNLR_t1GQ7k/maxresdefault.jpg",
+    "https://bonusstagemagazine.wordpress.com/wp-content/uploads/2020/02/over-top-neo-geo-curva.png",
+    "https://www.neo-geo.com/reviews/neo-reviews/Overtop/overtop1.gif",
+    "https://i.ytimg.com/vi/0RI6Teow-Oo/hq720.jpg",
+    "https://i.ytimg.com/vi/y5M_KPLgfjk/sddefault.jpg",
+    "https://www.arcadearchives.com/wp/wp-content/uploads/2024/12/ang-ks9amqnx-ss02.png",
+    "https://images.sftcdn.net/images/t_app-cover-s,f_auto/p/6f90bf10-68b0-11e8-be9f-21532cebd7b7/2447043233/aca-neogeo-over-top-screenshot.jpg",
+    "https://i.ytimg.com/vi/9ca4LVvtFEc/mqdefault.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/none/path/s804b776a8d10e866/image/ibc13e0617059c884/version/1533811303/image.jpg",
+    "https://bonusstagemagazine.wordpress.com/wp-content/uploads/2020/02/over-top-neo-geo-moto.jpg",
+    "https://www.neo-geo.com/reviews/neo-reviews/thrash_rally/TRallyPl.gif",
+    "https://images.nintendolife.com/screenshots/82267/large.jpg",
+    "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_AcaNeogeoOverTop.jpg",
+    "https://commons.wikimedia.org/wiki/File:SNK_NeoGeo_Pocket_logo.png",
+    "https://static.wikia.nocookie.net/snk/images/1/14/OverTop.jpg"
+  ],
+  "tiene_review": false,
+  "review_score": null,
+  "carpeta_slug": "over-top",
+  "nombre_xml": "SNK Neo Geo",
+  "sistema_slug": "snk-neo-geo",
+  "fuentes_imagenes": [
+    "Screenshots: Google+DuckDuckGo (20)",
+    "Banners: Google+DuckDuckGo (2)"
+  ]
+}
