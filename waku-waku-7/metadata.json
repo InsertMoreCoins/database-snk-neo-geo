@@ -1,0 +1,29 @@
+{
+  "nombre": "Waku Waku 7",
+  "nombre_original": "Waku Waku 7",
+  "sistema": "SNK Neo Geo",
+  "year": 1996,
+  "genres": [
+    "Fighter"
+  ],
+  "publisher": "Sunsoft",
+  "developer": "Sunsoft",
+  "banners_candidatos": [
+    "banner.webp"
+  ],
+  "banner_local": "banner.webp",
+  "screenshots_local": [],
+  "screenshots_urls_descargadas": [
+    "https://static.wikia.nocookie.net/snk/images/7/7c/WakuWaku7-flyer.png",
+    "https://www.video-games-museum.com/en/screenshots/NeoGeo/1/4398-title-Waku-Waku-7.jpg",
+    "https://wiki.supercombo.gg/images/thumb/7/7e/WW7_logo.png/480px-WW7_logo.png"
+  ],
+  "tiene_review": false,
+  "review_score": null,
+  "carpeta_slug": "waku-waku-7",
+  "nombre_xml": "SNK Neo Geo",
+  "sistema_slug": "snk-neo-geo",
+  "fuentes_imagenes": [
+    "Banners: Google+DuckDuckGo (3)"
+  ]
+}
