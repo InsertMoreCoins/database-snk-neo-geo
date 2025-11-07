@@ -1,0 +1,68 @@
+{
+  "nombre": "Viewpoint",
+  "nombre_original": "Viewpoint",
+  "sistema": "SNK Neo Geo",
+  "year": 1992,
+  "genres": [
+    "Shooter/Flying"
+  ],
+  "publisher": "Sammy / Aicom",
+  "developer": "Sammy / Aicom",
+  "banners_candidatos": [
+    "banner.webp"
+  ],
+  "banner_local": "banner.webp",
+  "screenshots_local": [
+    "screenshot_1.webp",
+    "screenshot_2.webp",
+    "screenshot_3.webp",
+    "screenshot_4.webp",
+    "screenshot_5.webp",
+    "screenshot_6.webp",
+    "screenshot_7.webp",
+    "screenshot_8.webp",
+    "screenshot_9.webp",
+    "screenshot_10.webp",
+    "screenshot_11.webp",
+    "screenshot_12.webp",
+    "screenshot_13.webp",
+    "screenshot_14.webp",
+    "screenshot_15.webp",
+    "screenshot_16.webp",
+    "screenshot_17.webp",
+    "screenshot_18.webp"
+  ],
+  "screenshots_urls_descargadas": [
+    "https://images.launchbox-app.com/346ef9c2-dc82-4baa-bb84-81332ea492f6.png",
+    "http://www.hardcoregaming101.net/wp-content/uploads/2018/10/Viewpoint-5.png",
+    "http://www.hardcoregaming101.net/wp-content/uploads/2018/10/Viewpoint-3.png",
+    "https://images.launchbox-app.com/ed3ed7b1-50fa-42bc-8e54-c7048a23318f.png",
+    "https://i.ytimg.com/vi/9Hi7q20eiz8/sddefault.jpg",
+    "https://thekingofgrabs.com/wp-content/uploads/2017/12/viewpoint-neo-geo-wide.png",
+    "http://www.hardcoregaming101.net/wp-content/uploads/2018/10/Viewpoint-7.png",
+    "http://www.retroplace.com/pics/neogeocd/ingames/38549--viewpoint.png",
+    "https://pbs.twimg.com/media/FMZCASoXMAMX7Ui.jpg",
+    "https://cdn.mobygames.com/f2693f46-c21c-11ed-ab6b-02420a000194.webp",
+    "https://i.ytimg.com/vi/yScJmYzP4p8/maxresdefault.jpg",
+    "https://l450v.alamy.com/450v/2bmp3w7/viewpoint-snk-neo-geo-neogeo-editorial-use-only-2bmp3w7.jpg",
+    "https://i0.wp.com/thekingofgrabs.com/wp-content/uploads/2017/12/viewpoint-neo-geo-13.jpg",
+    "https://imageio.forbes.com/blogs-images/olliebarder/files/2017/06/viewpoint_neogeo.jpg",
+    "https://www.honestgamers.com/images/assets/41/V/10676/1.jpg",
+    "https://images.launchbox-app.com/a58ecd0b-9e95-4927-9832-deb523c687f1.png",
+    "https://cdn.mobygames.com/screenshots/16038301-viewpoint-neo-geo-trying-to-open-a-gate.png",
+    "https://i.ytimg.com/vi/I-ICH4yzN5E/hq720.jpg",
+    "https://www.honestgamers.com/images/assets/41/V/10676/3.jpg",
+    "http://www.digitpress.com/dpsightz/neogeo/viewpoint.gif",
+    "https://commons.wikimedia.org/wiki/File:SNK_NeoGeo_Pocket_logo.png",
+    "https://images.launchbox-app.com/576835fb-6286-4496-986d-7f1b427c781b.png"
+  ],
+  "tiene_review": false,
+  "review_score": null,
+  "carpeta_slug": "viewpoint",
+  "nombre_xml": "SNK Neo Geo",
+  "sistema_slug": "snk-neo-geo",
+  "fuentes_imagenes": [
+    "Screenshots: Google+DuckDuckGo (20)",
+    "Banners: Google+DuckDuckGo (2)"
+  ]
+}
