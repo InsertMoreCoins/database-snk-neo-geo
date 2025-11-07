@@ -1,0 +1,29 @@
+{
+  "nombre": "Garou - Mark of the Wolves",
+  "nombre_original": "Garou - Mark of the Wolves (set 1)",
+  "sistema": "SNK Neo Geo",
+  "year": 1999,
+  "genres": [
+    "Fighter"
+  ],
+  "publisher": "SNK",
+  "developer": "SNK",
+  "banners_candidatos": [
+    "banner.webp"
+  ],
+  "banner_local": "banner.webp",
+  "screenshots_local": [],
+  "screenshots_urls_descargadas": [
+    "https://images.launchbox-app.com/69f3fa28-1481-4d43-b463-93d59c1c663b.png",
+    "https://images.launchbox-app.com/8f104482-5d5e-4b8e-a224-17df9b100ea6.jpg",
+    "https://upload.wikimedia.org/wikipedia/en/3/3f/Garou_-_Mark_of_the_Wolves_arcade_flyer.png"
+  ],
+  "tiene_review": false,
+  "review_score": null,
+  "carpeta_slug": "garou-mark-of-the-wolves",
+  "nombre_xml": "SNK Neo Geo",
+  "sistema_slug": "snk-neo-geo",
+  "fuentes_imagenes": [
+    "Banners: Google+DuckDuckGo (3)"
+  ]
+}
