@@ -8,23 +8,25 @@
   ],
   "publisher": "Visco",
   "developer": "Visco",
-  "banners_candidatos": [],
-  "banner_local": null,
+  "banners_candidatos": [
+    "banner.webp"
+  ],
+  "banner_local": "banner.webp",
   "screenshots_local": [
+    "screenshot_1.webp",
     "screenshot_2.webp",
     "screenshot_3.webp",
+    "screenshot_4.webp",
     "screenshot_5.webp",
+    "screenshot_6.webp",
     "screenshot_7.webp",
+    "screenshot_8.webp",
+    "screenshot_9.webp",
+    "screenshot_10.webp",
+    "screenshot_11.webp",
     "screenshot_12.webp",
-    "screenshot_14.webp",
-    "screenshot_20.webp",
-    "screenshot_24.webp",
-    "screenshot_28.webp",
-    "screenshot_30.webp",
-    "screenshot_32.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp",
-    "screenshot_39.webp"
+    "screenshot_13.webp",
+    "screenshot_14.webp"
   ],
   "screenshots_urls_descargadas": [
     "https://c8.alamy.com/comp/2BMP0MW/bang-bead-snk-neo-geo-neogeo-editorial-use-only-2BMP0MW.jpg",
