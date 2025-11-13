@@ -8,54 +8,13 @@
   ],
   "publisher": "SNK",
   "developer": "SNK",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp"
-  ],
+  "banners_candidatos": [],
+  "banner_local": null,
+  "screenshots_local": [],
   "screenshots_urls_descargadas": [
-    "https://i.ytimg.com/vi/t3xpgx_PPos/hq720.jpg",
-    "https://s.uvlist.net/l/y2008/01/22445.jpg",
-    "https://archive.org/serve/arcade_aof/arcade_aof_screenshot.png",
-    "https://i.ytimg.com/vi/n3k0FSd6Pe8/hq720.jpg",
-    "https://www.arcade-history.com/images/game/118_2.png",
-    "https://www.video-games-museum.com/en/screenshots/NeoGeo/3/4274-ingame-Art-of-Fighting-3-The-Path-of-the-Warrior-Art-of-Fighting-Ryuuko-no-Ken-Gaiden.jpg",
-    "https://www.arcade-history.com/images/game/116_2.png",
-    "http://www.retroplace.com/pics/neogeocd/ingames/37791--art-of-fighting-ryuuko-no-ken-gaiden.png",
-    "https://www.video-games-museum.com/en/screenshots/NeoGeo/4/4274-ingame-Art-of-Fighting-3-The-Path-of-the-Warrior-Art-of-Fighting-Ryuuko-no-Ken-Gaiden.jpg",
-    "https://s.uvlist.net/l/y2006/10/29848.jpg",
-    "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/NEOGEO_Art_of_Fighting_%28Ry%C5%ABko_no_Ken%29.png/250px-NEOGEO_Art_of_Fighting_%28Ry%C5%ABko_no_Ken%29.png",
-    "https://www.video-games-museum.com/en/screenshots/NeoGeo/3/4273-ingame-Art-of-Fighting-2-Ryuuko-no-Ken-2.jpg",
-    "https://www.vgmuseum.com/reviews/neogeo/aof/aof24.gif",
-    "http://www.hardcoregaming101.net/wp-content/uploads/2018/12/aof3-4-1.png",
-    "https://i.ytimg.com/vi/8eNSZoNLaRY/hq720.jpg",
-    "https://i.ytimg.com/vi/aEYUIbtw4mQ/hq720.jpg",
-    "https://i.ytimg.com/vi/-E-mGYJrKJw/maxresdefault.jpg",
-    "https://tcrf.net/images/1/10/Art_of_Fighting_3_AC_Job_Meter.png",
-    "https://archive.org/download/art-of-fighting-ccm/Cartridge%20-%20Front.jpg",
-    "https://hyperspin-fe.com/uploads/monthly_2018_05/5afd9c2e409a4_Desktop17-05-201811-45-59-900.jpg.d949f38c398854ebfb60154a6715f378.jpg",
     "https://static.wikia.nocookie.net/snk/images/e/e0/ArtOfFighting.png",
-    "https://clouddosage.com/wp-content/uploads/2023/10/art-of-fighting-ryuuko-no-ken.jpg",
-    "https://www.vgmuseum.com/reviews/neogeo/aof/aofTitle.gif"
+    "https://images.launchbox-app.com/0db38efc-e303-47c7-b0f6-3bb9f09d52a6.png",
+    "https://tcrf.net/images/9/91/Art_of_Fighting_Arcade_Title_US_Europe.png"
   ],
   "tiene_review": false,
   "review_score": null,
@@ -63,7 +22,6 @@
   "nombre_xml": "SNK Neo Geo",
   "sistema_slug": "snk-neo-geo",
   "fuentes_imagenes": [
-    "Screenshots: Google+DuckDuckGo (20)",
     "Banners: Google+DuckDuckGo (3)"
   ]
 }
