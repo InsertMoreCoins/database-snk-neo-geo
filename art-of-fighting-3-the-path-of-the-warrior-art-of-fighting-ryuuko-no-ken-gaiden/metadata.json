@@ -8,9 +8,13 @@
   ],
   "publisher": "SNK",
   "developer": "SNK",
-  "banners_candidatos": [],
-  "banner_local": null,
-  "screenshots_local": [],
+  "banners_candidatos": [
+    "banner.webp"
+  ],
+  "banner_local": "banner.webp",
+  "screenshots_local": [
+    "screenshot_1.webp"
+  ],
   "screenshots_urls_descargadas": [
     "https://static.wikia.nocookie.net/snk/images/c/ca/AOF3-tpotw-cover.jpg",
     "https://images.launchbox-app.com/6b97a89b-58a4-4736-b3be-db909f0effea.png",
