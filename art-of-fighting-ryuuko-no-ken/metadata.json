@@ -8,8 +8,10 @@
   ],
   "publisher": "SNK",
   "developer": "SNK",
-  "banners_candidatos": [],
-  "banner_local": null,
+  "banners_candidatos": [
+    "banner.webp"
+  ],
+  "banner_local": "banner.webp",
   "screenshots_local": [],
   "screenshots_urls_descargadas": [
     "https://static.wikia.nocookie.net/snk/images/e/e0/ArtOfFighting.png",
