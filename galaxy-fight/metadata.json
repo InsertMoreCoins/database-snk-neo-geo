@@ -8,8 +8,10 @@
   ],
   "publisher": "SNK",
   "developer": "SNK",
-  "banners_candidatos": [],
-  "banner_local": null,
+  "banners_candidatos": [
+    "banner.webp"
+  ],
+  "banner_local": "banner.webp",
   "screenshots_local": [
     "screenshot_1.webp",
     "screenshot_2.webp",
@@ -30,36 +32,30 @@
     "screenshot_17.webp",
     "screenshot_18.webp",
     "screenshot_19.webp",
-    "screenshot_20.webp"
+    "screenshot_20.webp",
+    "screenshot_21.webp",
+    "screenshot_22.webp",
+    "screenshot_23.webp",
+    "screenshot_24.webp",
+    "screenshot_25.webp",
+    "screenshot_26.webp",
+    "screenshot_27.webp",
+    "screenshot_28.webp",
+    "screenshot_29.webp",
+    "screenshot_30.webp",
+    "screenshot_31.webp",
+    "screenshot_32.webp",
+    "screenshot_33.webp",
+    "screenshot_34.webp",
+    "screenshot_35.webp"
   ],
-  "screenshots_urls_descargadas": [
-    "https://c8.alamy.com/comp/2BMP192/galaxy-fight-snk-neo-geo-neogeo-editorial-use-only-2BMP192.jpg",
-    "https://www.fightersgeneration.com/news2023/game/galaxy/galaxyfight-neogeo-screenshot.png",
-    "https://gaminghell.co.uk/images/galaxyfg/galaxyfg2.png",
-    "https://www.arcade-history.com/images/game/905_2.png",
-    "https://i.ytimg.com/vi/pRRupX-7qyE/hq720.jpg",
-    "https://www.fightersgeneration.com/news2023/game/galaxy/galaxy-fight.gif",
-    "https://i.ytimg.com/vi/shKtbYjwvZo/sddefault.jpg",
-    "https://i.ytimg.com/vi/JhQ4FMKMBk0/maxresdefault.jpg",
-    "https://gaminghell.co.uk/images/galaxyfg/galaxyfgss2.png",
-    "https://images.nintendolife.com/screenshots/83356/large.jpg",
-    "http://www.neo-geo.com/snk/screenshots/galaxy%20fight2.gif",
-    "https://i.ytimg.com/vi/0jNOEk7v3-4/maxresdefault.jpg",
-    "https://gaminghell.co.uk/images/galaxyfg/galaxyfg1.png",
-    "https://images.launchbox-app.com/85493c2f-ecb2-4803-81fb-d2af73a931d2.png",
-    "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_AcaNeogeoGalaxyFightUniversalWarriors.jpg",
-    "https://www.fightersgeneration.com/news2023/game/galaxy/galaxy-fight-character-select.png",
-    "https://images.launchbox-app.com/595d33c1-a3c0-4e76-a4c6-beffcbcc398a.png",
-    "https://cdn.mobygames.com/screenshots/16038187-galaxy-fight-universal-warriors-neo-geo-time-to-fight.png",
-    "http://gonintendo.com/system/file_uploads/uploads/000/026/735/original/japa.png",
-    "https://cdn.mobygames.com/screenshots/16037197-galaxy-fight-universal-warriors-neo-geo-hey-thats-not-nice-put-m.png"
-  ],
+  "screenshots_urls_descargadas": [],
   "tiene_review": false,
   "review_score": null,
   "carpeta_slug": "galaxy-fight",
   "nombre_xml": "SNK Neo Geo",
   "sistema_slug": "snk-neo-geo",
   "fuentes_imagenes": [
-    "Screenshots: Google+DuckDuckGo (20)"
+    "DUMMY_v0.07"
   ]
 }
