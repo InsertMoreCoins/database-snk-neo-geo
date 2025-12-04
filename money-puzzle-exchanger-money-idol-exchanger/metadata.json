@@ -2,60 +2,10 @@
   "nombre": "Money Puzzle Exchanger / Money Idol Exchanger",
   "nombre_original": "Money Puzzle Exchanger / Money Idol Exchanger",
   "sistema": "SNK Neo Geo",
-  "year": 1997,
+  "year": "1997",
   "genres": [
     "Puzzle"
   ],
   "publisher": "Face",
-  "developer": "Face",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "money-puzzle-exchanger-money-idol-exchanger",
-  "nombre_xml": "SNK Neo Geo",
-  "sistema_slug": "snk-neo-geo",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "tiene_review": false
 }
